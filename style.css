@@ -1,0 +1,25 @@
+.copyMe {
+  display: inline-block;
+  padding: 15px;
+  border: 1px solid black;
+  border-radius: 5%;
+  position: absolute;
+  width: 60px;
+  text-align: center;
+  height: 40px;
+  cursor: pointer;
+  overflow: hidden;
+}
+
+.newb {
+  color: red;
+}
+
+#garbage {
+  position: absolute;
+  height: 100px;
+  width: 100px;
+  background-color: black;
+  left: 500px;
+  top: 300px;
+}
